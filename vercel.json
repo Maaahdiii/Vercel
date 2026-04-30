@@ -2,7 +2,7 @@
   "version": 2,
   "name": "DPI-Arround",
   "rewrites": [
-    { "source": "/(.*)", "destination": "/api/index" }
+    { "source": "/(.*)", "destination": "/api/FirstPage" }
   ],
   "trailingSlash": false
 }
